@@ -1,5 +1,3 @@
-Contains Duplicate : Check if a value appears atleast twice
-
 class Solution {
     public boolean containsDuplicate(int[] nums) {
         Set<Integer> a = new HashSet <>();
